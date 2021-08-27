@@ -6,7 +6,7 @@ Docs: https://countapi.xyz/
 
 Build a simple GraphQL api that extracts data from a public REST api. In this case CountAPI (Integer as a service)  
 
-Can be tested with GraphiQL by navigationg to start the app (```yarn start```) and navigate to http://localhost:8080/graphql
+Can be tested with GraphiQL. Start the app (```yarn start```) and navigate to http://localhost:8080/graphql
 
 
 
