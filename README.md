@@ -1,6 +1,6 @@
 # Stellar BFF
 
-https://countapi.xyz/
+Docs: https://countapi.xyz/
 
 ## TASK
 
